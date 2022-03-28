@@ -17,11 +17,17 @@
 .bold {
   font-weight: 600;
 }
-
+@media screen and (max-width: 750px) {
+  .card {
+    background-image: url("../src/bgsmall.png");
+    background-size: 100% 100%;
+  }
+}
 @media screen and (max-width: 512px) {
   .card {
     width: 100%;
     height: 100%;
+
     border-radius: 0;
     box-shadow: none;
   }
