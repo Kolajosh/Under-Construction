@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Kolajosh/static/css/main.cac5c134.chunk.css",
-    "main.js": "/Kolajosh/static/js/main.29ecfef2.chunk.js",
-    "main.js.map": "/Kolajosh/static/js/main.29ecfef2.chunk.js.map",
-    "runtime-main.js": "/Kolajosh/static/js/runtime-main.c89b771e.js",
-    "runtime-main.js.map": "/Kolajosh/static/js/runtime-main.c89b771e.js.map",
-    "static/js/2.7c851472.chunk.js": "/Kolajosh/static/js/2.7c851472.chunk.js",
-    "static/js/2.7c851472.chunk.js.map": "/Kolajosh/static/js/2.7c851472.chunk.js.map",
-    "index.html": "/Kolajosh/index.html",
-    "precache-manifest.920f9f33a0631d3bb64ad553386c6e4d.js": "/Kolajosh/precache-manifest.920f9f33a0631d3bb64ad553386c6e4d.js",
-    "service-worker.js": "/Kolajosh/service-worker.js",
-    "static/css/main.cac5c134.chunk.css.map": "/Kolajosh/static/css/main.cac5c134.chunk.css.map",
-    "static/js/2.7c851472.chunk.js.LICENSE.txt": "/Kolajosh/static/js/2.7c851472.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/Kolajosh/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
-    "static/media/App.css": "/Kolajosh/static/media/bg1.08d30ec5.png"
+    "main.css": "./static/css/main.1973f9aa.chunk.css",
+    "main.js": "./static/js/main.190bfce3.chunk.js",
+    "main.js.map": "./static/js/main.190bfce3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5b74b8ed.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5b74b8ed.js.map",
+    "static/js/2.7c851472.chunk.js": "./static/js/2.7c851472.chunk.js",
+    "static/js/2.7c851472.chunk.js.map": "./static/js/2.7c851472.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ec31617e0d9f7ff66e3a8706add8b21b.js": "./precache-manifest.ec31617e0d9f7ff66e3a8706add8b21b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1973f9aa.chunk.css.map": "./static/css/main.1973f9aa.chunk.css.map",
+    "static/js/2.7c851472.chunk.js.LICENSE.txt": "./static/js/2.7c851472.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "./static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/App.css": "./static/media/bg1.08d30ec5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c89b771e.js",
+    "static/js/runtime-main.5b74b8ed.js",
     "static/js/2.7c851472.chunk.js",
-    "static/css/main.cac5c134.chunk.css",
-    "static/js/main.29ecfef2.chunk.js"
+    "static/css/main.1973f9aa.chunk.css",
+    "static/js/main.190bfce3.chunk.js"
   ]
 }
