@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Kolajosh/static/css/main.cac5c134.chunk.css",
+    "main.js": "/Kolajosh/static/js/main.29ecfef2.chunk.js",
+    "main.js.map": "/Kolajosh/static/js/main.29ecfef2.chunk.js.map",
+    "runtime-main.js": "/Kolajosh/static/js/runtime-main.c89b771e.js",
+    "runtime-main.js.map": "/Kolajosh/static/js/runtime-main.c89b771e.js.map",
+    "static/js/2.7c851472.chunk.js": "/Kolajosh/static/js/2.7c851472.chunk.js",
+    "static/js/2.7c851472.chunk.js.map": "/Kolajosh/static/js/2.7c851472.chunk.js.map",
+    "index.html": "/Kolajosh/index.html",
+    "precache-manifest.920f9f33a0631d3bb64ad553386c6e4d.js": "/Kolajosh/precache-manifest.920f9f33a0631d3bb64ad553386c6e4d.js",
+    "service-worker.js": "/Kolajosh/service-worker.js",
+    "static/css/main.cac5c134.chunk.css.map": "/Kolajosh/static/css/main.cac5c134.chunk.css.map",
+    "static/js/2.7c851472.chunk.js.LICENSE.txt": "/Kolajosh/static/js/2.7c851472.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/Kolajosh/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/App.css": "/Kolajosh/static/media/bg1.08d30ec5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c89b771e.js",
+    "static/js/2.7c851472.chunk.js",
+    "static/css/main.cac5c134.chunk.css",
+    "static/js/main.29ecfef2.chunk.js"
+  ]
+}

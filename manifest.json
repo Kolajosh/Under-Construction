@@ -1,0 +1,8 @@
+{
+  "short_name": "Coming Soon",
+  "name": "Coming Soon Page",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
