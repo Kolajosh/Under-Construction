@@ -1,5 +1,4 @@
 import React from "react";
-
 import logo from "../src/logo.png";
 import "./App.css";
 
@@ -39,22 +38,6 @@ class App extends React.Component {
             <br />
             Work: +234 803 335 6183
           </p>
-          {/*<a
-            href="https://facebook.com"
-            title="Facebook"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <IconFacebook className="icon" />
-          </a>
-          <a
-            href="https://twitter.com"
-            title="Twitter"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <IconTwitter className="icon" />
-    </a>*/}
         </div>
       </div>
     );
